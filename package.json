@@ -1,0 +1,5 @@
+{
+  "name": "creator",
+  "version": "0.0.1",
+  "bin": "./index.js"
+}
